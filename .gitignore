@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset Files
+books.csv
+Users.csv
+Ratings.csv
+
+# Pickle Files
+books.pkl
+pt.pkl
+popular.pkl
+similarity_scores.pkl
+
+
+
