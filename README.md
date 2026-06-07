@@ -113,7 +113,7 @@ Add screenshots of:
 
 Demo Video Link:
 
-Project Demo: Live Demo.mp4
+Project Demo: ▶ [Click to watch Live Demo.mp4](./Live Demo.mp4)
 
 ## 👨‍💻 Author
 
