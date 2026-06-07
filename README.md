@@ -29,6 +29,8 @@ A Machine Learning based Book Recommendation System that suggests similar books 
 Book-Recommender-System/
 │
 ├── app.py
+├── Book Recommender System.ipynb
+├── Live Demo.mp4
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
@@ -111,7 +113,7 @@ Add screenshots of:
 
 Demo Video Link:
 
-PASTE_YOUR_DEMO_VIDEO_LINK_HERE
+Project Demo: Live Demo.mp4
 
 ## 👨‍💻 Author
 
